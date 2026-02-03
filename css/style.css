@@ -73,4 +73,161 @@
       width: 5%;
       outline: 3px solid white;
    }
+   .s3{
+      padding-top: 20px;
+      text-align: center;
+   }
+   .s3 select{
+      margin: 10px 0;
+   }
+   .s3 h1{
+      font-size: 20px;
+      color: white;
+   }
+   .s3 button{
+      font-size: 20px;
+      background-color: red;
+      color: white;
+      border: none;
+   }
+   .s3 button:hover{
+      background-color: black;
+   }
+   .fixo{
+      height: 50px;
+      background-color: rgb(147, 117, 117);
+      position: fixed;
+      z-index: 2;
+      bottom: 0px;
+      width: 100%;
+      color: white;
+   }
+   .pedidosS2{
+      padding-top: 50px;
+   }
+   .historico{
+      background-color: white;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      border: 2px solid ;
+      border-radius: 10px;
+   }
+   .historico img{
+      border-radius: 50%;
+      width: 40px;
+      height: 40px;
+   }
+   .historico h1{
+      padding-top: 15px;
+      font-size: 20px;
+   }
+   .historico button{
+      background-color: black;
+      border: none;
+      color: white;
+      text-transform: uppercase;
+      padding: 10px 10px;
+      margin-right: 5px;
+      margin-top: 5px;
+   }
+   .pedidosS2 h1{
+      color: orange;
+   }
+   .meusdadoss2{
+      padding-top: 20px;
+      text-align: center;
+   }
+   .meusdadoss2 .tel1{
+      width: 10%;
+   }
+   .meusdadoss2 .tel2{
+      width: 65%;
+      margin-left: 4%;
+   }
+   .meusdadoss2 .endereco{
+      width: 80%;
+   }
+   .meusdadoss2 .complemento{
+      width: 80%;
+   }
+   .meusdadoss2 .nome{
+      width: 80%;
+   }
+   .meusdadoss2 .cartao{
+      width: 80%;
+   }
+   .check{
+      text-align: left;
+      margin-left: 9%;
+   }
+   .meusdadoss2 button{
+      background-color: black;
+      color: white;
+      border: none;
+      width: 80%;
+      height: 40px;
+      font-size: 20px;
+      margin-top: 10%;
+   }
+   .meusdadoss2 button:hover{
+      background-color: rgb(1, 161, 52);
+      color: black;
+   }
+   .tx1{
+      margin-top: 20px;
+   }
+   .usuario{
+      width: 50%;
+      height: 30px;
+      font-size: 20px;
+      margin-top: 10px !important;
+      margin-bottom: 20px !important;
+   }
+   .senha{
+      width: 50%;
+      height: 30px;
+      font-size: 20px;
+      margin-top: 10px !important;
+      margin-bottom: 20px !important;
+   }
+   .logar{
+      background-color: white;
+      border: 2px solid black;
+      color: black;
+      text-transform: uppercase;
+      width: 50% !important;
+
+   }
+   .meusdadoss2 h1{
+      font-size: 20px;
+      margin: 5px 0;
+     
+   }
+   a{
+      color: black;
+      text-decoration: none;
+   }
+   .recolher{
+      transform: rotate(180deg);
+   }
+   .grupo1{
+      background-color: white;
+      border: 2px solid black;
+      margin-top: 10px;
+      margin-left: 2.5%;
+      font-size: 20px;
+      padding: 5px;     
+   }
+     .grupo2{
+      background-color: white;
+      border: 2px solid black;
+      margin-left: 8%;
+      font-size: 20px;
+      padding: 5px;
+   }
+   .recolher{
+      width: 88.88%;
+   }
+
+
 }

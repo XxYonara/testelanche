@@ -235,6 +235,6 @@
 .pr-10{padding-right: 83.33%;}
 .pr-11{padding-right: 91.66%;}
 .pr-12{padding-right: 100%;}
-.esconde{display: none;}
+.esconde{display: none ;}
 .mostra{display: block;}
 }
